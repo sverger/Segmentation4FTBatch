@@ -1,6 +1,6 @@
 # Segmentation4FTBatch
 This macro allows a semi-automated segmentation and creation of ROI sets for fibrilToolBatch.
-It can use as input 2D images cearted with SurfCut (https://github.com/sverger/SurfCut).
+It can use as input 2D images created with SurfCut (https://github.com/sverger/SurfCut).
 As output, it creates an input for FibrilTool_Batch.ijm (https://github.com/sverger/FibrilTool_Batch).
 
 For more details on how to use the macro, see https://github.com/sverger/SurfCut/blob/master/SurfCut_UserGuide.pdf pages 15-18.
